@@ -9,12 +9,9 @@ ref) https://soo-vely-dev.tistory.com/159
 - empty space : %20
 >   https://github.com/kyechan99/capsule-render
 -->
-![header](https://capsule-render.vercel.app/api?type=waving
-&color=auto&height=170&section=header
-&text=:wave:%20Hi!%20This%20is%20Jo-Chang!%20:wave
-&fontSize=30&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=:wave:%20Hi!%20This%20is%20Jo-Chang!%20:wave&fontSize=30&)
 
-### I'm a Korean developer student.
+#### I'm a Korean developer student.
 
 ## **Skills** :fire:
 <!--
