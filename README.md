@@ -9,17 +9,22 @@ ref) https://soo-vely-dev.tistory.com/159
 - empty space : %20
 >   https://github.com/kyechan99/capsule-render
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=:wave:%20Hi!%20This%20is%20Jo-Chang!%20:wave&fontSize=30&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello!%20This%20is%20Jo-Chang!%20&fontSize=30&)
 
-#### I'm a Korean developer student.
+#### :wave: I'm developer student. :baby: 
+#### I wanted to make a great program! :rocket:
 
-## **Skills** :fire:
+## **Skills** :seedling:
 <!--
 # shiedls.io
 >   
 -->
--	to be updated...
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=PHP&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## **Github Stats** :bar_chart:
 <!--
