@@ -10,10 +10,9 @@ ref) https://soo-vely-dev.tistory.com/159
 >   https://github.com/kyechan99/capsule-render
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello!%20This%20is%20Jo-Chang!%20&fontSize=30&)
-
-#### :wave: 
-#### I'm developer student. :baby: 
-#### I wanted to make a great program! :rocket:
+#### :wave:Hi!
+#### :baby:I'm developer student. 
+#### :rocket:I wanted to make a great program! 
 
 ## **Skills** :seedling:
 <!--
