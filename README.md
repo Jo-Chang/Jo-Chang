@@ -35,8 +35,11 @@ ref) https://soo-vely-dev.tistory.com/159
 # Github Stats
 >   https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
+<!--
 ![Jo-Chang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jo-Chang&theme=tokyonight&show_icons=true)
-
+# too many request issue happen
+-->
+![Jo-Chang's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=Jo-Chang&theme=tokyonight&show_icons=true)
 
 ## **Baekjoon OJ** :pencil2:
 <!--
