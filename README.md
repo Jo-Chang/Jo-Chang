@@ -12,7 +12,7 @@ ref) https://soo-vely-dev.tistory.com/159
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hello!%20This%20is%20Jo-Chang!%20&fontSize=30&)
 #### :wave:Hello world!
 #### :baby:I'm developer student. 
-#### :rocket:I wanted to make a great program! 
+#### :rocket:Let's make a program! 
 
 ## **Skills** :seedling:
 <!--
